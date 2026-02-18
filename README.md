@@ -21,11 +21,6 @@
 - Open-source tools for students  
 - Anything involving Python or Java
 
-### 🆘 I’m looking for help with ...
-- Advanced ML concepts  
-- Security automation  
-- Performance optimization
-
 ### 💬 Ask me about ...
 - Getting started in Information Technology   
 - Rutgers CS experience  
