@@ -26,9 +26,6 @@
 - Rutgers CS experience  
 - Building student projects from scratch
 
-### 😄 Pronouns:
-he/him
-
 ### ⚡ Fun fact:
 I can go down a random curiosity rabbit hole for hours and somehow enjoy every minute of it.
 
